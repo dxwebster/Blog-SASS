@@ -1,10 +1,11 @@
 <p align=center>
 
-
 <h5 align=center>
 <img src="img/home.png" width=600><br>
 
-🎨 Baseado no vídeo [Dê super poderes ao CSS com SASS](https://www.youtube.com/watch?v=BaI8dHUthLA)
+- Aplicação desenvolvida para estudo do SASS, baseado no vídeo [Dê super poderes ao CSS com SASS](https://www.youtube.com/watch?v=BaI8dHUthLA)
+
+- Inclusão de uma nova feature: Filtro
 
 </h5>
 
