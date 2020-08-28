@@ -1,36 +1,37 @@
-/*=============== 
-CARDS
-==================*/
-.cards {
-  width: 90%;
-  max-width: 980px;
-  margin: auto;
-  display: grid;
-  -ms-grid-columns: (minmax(250px, 1fr)) [auto-fit];
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  grid-gap: 20px;
+/*=============== CARDS ==================*/
+
+.animate-grid {
+  max-width: 1170px;
+  margin: 0 auto;
 }
 
-.text--medium {
-  font-size: 1.6rem;
-  line-height: 2.6rem;
-  font-weight: 400;
-  color: setTextColor($primary-color);
+.cards {
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .card {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  background-color:$primary-color;
+  width: 25%;
+  padding: 10px;
   cursor: pointer;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
+
+@media (max-width: 768px){
+    .card {
+      width: 50%;
+  }
+}
+
+@media (max-width: 500px){
+    .card {
+      width: 100%;
+  }
+}
+
+
 
 .card:hover {
   -webkit-transform: translateY(-7px);
@@ -55,7 +56,8 @@ CARDS
 }
 
 .content {
-  margin: 20px;
+  padding: 20px;
+  background-color: $primary-color;
 }
 
 .title {
