@@ -4,7 +4,7 @@
 
 - Layout desenvolvido para estudo do SASS e Java Script
 - Baseado no vídeo [Dê super poderes ao CSS com SASS](https://www.youtube.com/watch?v=BaI8dHUthLA)
-- ✨Inclusão de uma nova feature: Filtro 
+- ✨Inclusão de uma nova feature: [Isotope Filter](https://isotope.metafizzy.co/filtering.html)
 
 <h5 align=center>
 <img src="img/home.png" width=600><br>
