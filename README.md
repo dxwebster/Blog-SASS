@@ -1,5 +1,12 @@
 <p align=center>
 
+## 🚀 Sobre o projeto
+
+- Layout desenvolvido para estudo do SASS e Java Script
+- Baseado no vídeo [Dê super poderes ao CSS com SASS](https://www.youtube.com/watch?v=BaI8dHUthLA)
+- ✨Inclusão de uma nova feature: Filtro 
+
+
 <h5 align=center>
 <img src="img/home.png" width=600><br>
 
@@ -9,21 +16,27 @@
 
 💻 **Acesse a aplicação [aqui](https://dxwebster.github.io/Blog-SASS/)**
 
+<br><br>
 </h3>
 
-- Aplicação desenvolvida para estudo do SASS, baseado no vídeo [Dê super poderes ao CSS com SASS](https://www.youtube.com/watch?v=BaI8dHUthLA)
-- Inclusão de uma nova feature: Filtro 
 
 </p>
 
 ---
+
+## 🚀 Tecnologias utilizadas
+
+- HTML
+- CSS
+- SASS
+- Java Script
+- Jquery
 
 ## 📥 Executar esse projeto no seu computador
 
 - Clonar Repositório: `git clone https://github.com/dxwebster/Blog-SASS.git`
 - Ir para a pasta: `cd Blog-SASS`
 - Abrir index.html
-
 
 
 ## Como utilizar o SASS nos projetos
