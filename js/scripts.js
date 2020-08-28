@@ -68,8 +68,7 @@ videos.map(video => {
   cardClone.setAttribute("class", video.video_class);
   cardClone.querySelector("img").src = video.thumb;
   cardClone.querySelector(".title").innerHTML = video.title;
-  cardClone.querySelector(".info > p.text--medium").innerHTML =
-    video.duration;
+  cardClone.querySelector(".info > p.text--medium").innerHTML = video.duration;
   sectionCards.appendChild(cardClone);
 });
 
