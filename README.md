@@ -1,3 +1,31 @@
+<p align=center>
+
+
+<h5 align=center>
+<img src="img/home.png" width=600><br>
+
+🎨 Baseado no vídeo [Dê super poderes ao CSS com SASS](https://www.youtube.com/watch?v=BaI8dHUthLA)
+
+</h5>
+
+<h3 align=center>
+
+💻 **Acesse a aplicação [aqui](https://dxwebster.github.io/Blog-SASS/)**
+
+</h3>
+
+</p>
+
+---
+
+## 📥 Executar esse projeto no seu computador
+
+- Clonar Repositório: `git clone https://github.com/dxwebster/Blog-SASS.git`
+- Ir para a pasta: `cd Blog-SASS`
+- Abrir index.html
+
+
+
 ## Como utilizar o SASS nos projetos
 
 Com node já instalado na máquina
@@ -17,5 +45,3 @@ Com node já instalado na máquina
 - Instalar CLI Purge CSS: `npm i -g purgecss`
 
 - Limpar Css não utilizado: `purgecss --css css/grid.css --content index.html --output build`
-
-
