@@ -7,7 +7,7 @@
 - ✨Inclusão de uma nova feature: [Isotope Filter](https://isotope.metafizzy.co/filtering.html)
 
 <h5 align=center>
-<img src="img/home.png" width=600><br>
+<img src="img/layout.png" width=600><br>
 </h5>
 
 <h3 align=center>
