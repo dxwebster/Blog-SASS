@@ -1,24 +1,20 @@
 <p align=center>
 
-## 🚀 Sobre o projeto
+## 💡 Sobre o projeto
 
 - Layout desenvolvido para estudo do SASS e Java Script
 - Baseado no vídeo [Dê super poderes ao CSS com SASS](https://www.youtube.com/watch?v=BaI8dHUthLA)
 - ✨Inclusão de uma nova feature: Filtro 
 
-
 <h5 align=center>
 <img src="img/home.png" width=600><br>
-
 </h5>
 
 <h3 align=center>
 
 💻 **Acesse a aplicação [aqui](https://dxwebster.github.io/Blog-SASS/)**
 
-<br><br>
 </h3>
-
 
 </p>
 
