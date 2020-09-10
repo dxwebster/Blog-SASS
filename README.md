@@ -3,7 +3,7 @@
 <h6 align=center>
 <img src="img/layout.gif" width=600><br>
   
-  Baseado no vídeo: [Formulário Animado com JS puro e CSS Animation | Mayk Brito](https://www.youtube.com/watch?v=GykTLqODQuU&t=2401s)
+  Baseado no vídeo: [Dê super poderes ao CSS com SASS | Masterclass #15](https://www.youtube.com/watch?v=BaI8dHUthLA)
   
 </h6>
 
@@ -24,7 +24,6 @@ Ao escrevermos nossos estilos com o Sass podemos trabalhar com encadeamento, var
 ## 💡 Sobre o projeto
 
 - Layout desenvolvido para estudo do SASS e Java Script
-- Baseado no vídeo [Dê super poderes ao CSS com SASS](https://www.youtube.com/watch?v=BaI8dHUthLA)
 - ✨Inclusão de uma nova feature: [Isotope Filter](https://isotope.metafizzy.co/filtering.html)
 
 ## 🚀 Tecnologias utilizadas
