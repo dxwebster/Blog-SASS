@@ -40,16 +40,37 @@ Ao escrevermos nossos estilos com o Sass podemos trabalhar com encadeamento, var
 - Ir para a pasta: `cd Blog-SASS`
 - Abrir index.html
 
-
 ## Como utilizar o SASS nos projetos
 
 Com node já instalado na máquina
 
 - Instalar sass globalmente (CLI do sass): `npm install -g sass` 
-- Reiniciar terminal
 - Abrir o projeto
 - Rodar o sass: `sass --watch scss/main.scss css/main.css --style=compressed`
 
+## ⭐️ Vantagens de usar o Sass
+
+- Simplificar e Organizar CSS
+- Manutenção
+- Rapidez e reuso de código
+- Maior compatibilidade com múltiplos navegadores
+- Programar: Variáveis, Funções, Repetições, IF/Else ...
+
+## 🏄🏽‍♂️ Recursos do Sass
+
+- Organizar arquivos/pastas
+- Importar: `@import`
+- Partials: `_name.scss`
+- Encadeamento
+- Variáveis: `$varname`
+- Escopos
+- Mixins: `@mixin @include` (agrupamento de declarações que poderão ser reusadas)
+- Condicionais: `@if @else if @else`
+- Repetições: `@for @each`
+- Funções: `ligthen()`
+- Herança `@extends`
+- Referencing `&:hover`
+- Fazer o arquivo ficar menor
 
 ## Outras configurações úteis:
 
@@ -58,5 +79,9 @@ Com node já instalado na máquina
 `set-executionpolicy remotesigned`
 
 - Instalar CLI Purge CSS: `npm i -g purgecss`
-
 - Limpar Css não utilizado: `purgecss --css css/grid.css --content index.html --output build`
+
+## 📕 Licença
+
+Todos os arquivos incluídos aqui, incluindo este _Readme_, estão sob [Licença MIT](./LICENSE).<br>
+Criado com ❤ por [Adriana Lima](https://github.com/dxwebster)
