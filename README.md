@@ -1,18 +1,23 @@
-<p align=center>
+<h1 align=center> Layout Responsivo com Filtro</h1>
 
-# Layout-Responsivo-com-Filtro
-
-<h5 align=center>
+<h6 align=center>
 <img src="img/layout.gif" width=600><br>
-</h5>
+  
+  Baseado no vídeo: [Formulário Animado com JS puro e CSS Animation | Mayk Brito](https://www.youtube.com/watch?v=GykTLqODQuU&t=2401s)
+  
+</h6>
 
 <h3 align=center>
 
-💻 **Acesse a aplicação [aqui](https://dxwebster.github.io/Layout-Responsivo-com-Filtro/)**
+💻 **Acesse a aplicação [aqui](https://dxwebster.github.io/Blog-SASS/)**
 
 </h3>
 
-</p>
+Podemos dizer que o Sass é um "jeito" de escrevermos CSS que facilita muito na fase do desenvolvimento, seja de páginas em HTML  ou aplicações.
+
+Ele é um pre-processador que utiliza a mesma lógica do CSS, e possui algumas características que torna o código mais intuitivo e organizado para os desenvolvedores.
+
+Ao escrevermos nossos estilos com o Sass podemos trabalhar com encadeamento, variáveis, condicionais e até mesmo funções! E muitos outros recursos.
 
 ---
 
