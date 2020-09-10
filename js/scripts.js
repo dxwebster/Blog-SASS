@@ -30,35 +30,35 @@ const videos = [
     duration: "33 min",
     thumb: "https://i.ytimg.com/vi/ghTrp1x_1As/hqdefault.jpg",
     video_id: "ghTrp1x_1As",
+    video_class: "card mb wir "
+  },
+  {
+    title: "Desvendando a variável this no Javascript | Mayk Brito",
+    duration: "48 min",
+    thumb: "https://i.ytimg.com/vi/GSqR2i-Pq6o/hqdefault.jpg",
+    video_id: "GSqR2i-Pq6o",
+    video_class: "card mb vga"
+  },
+  {
+    title: "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
+    duration: "33 min",
+    thumb: "https://i.ytimg.com/vi/2alg7MQ6_sI/hqdefault.jpg",
+    video_id: "2alg7MQ6_sI",
+    video_class: "card vga"
+  },
+  {
+    title: "Desvendando a variável this no Javascript | Mayk Brito",
+    duration: "48 min",
+    thumb: "https://i.ytimg.com/vi/GSqR2i-Pq6o/hqdefault.jpg",
+    video_id: "GSqR2i-Pq6o",
+    video_class: "card vga wir"
+  },
+  {
+    title: "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
+    duration: "33 min",
+    thumb: "https://i.ytimg.com/vi/2alg7MQ6_sI/hqdefault.jpg",
+    video_id: "2alg7MQ6_sI",
     video_class: "card mb wir"
-  },
-  {
-    title: "Desvendando a variável this no Javascript | Mayk Brito",
-    duration: "48 min",
-    thumb: "https://i.ytimg.com/vi/GSqR2i-Pq6o/hqdefault.jpg",
-    video_id: "GSqR2i-Pq6o",
-    video_class: "card mb"
-  },
-  {
-    title: "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
-    duration: "33 min",
-    thumb: "https://i.ytimg.com/vi/2alg7MQ6_sI/hqdefault.jpg",
-    video_id: "2alg7MQ6_sI",
-    video_class: "card mb"
-  },
-  {
-    title: "Desvendando a variável this no Javascript | Mayk Brito",
-    duration: "48 min",
-    thumb: "https://i.ytimg.com/vi/GSqR2i-Pq6o/hqdefault.jpg",
-    video_id: "GSqR2i-Pq6o",
-    video_class: "card mb"
-  },
-  {
-    title: "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
-    duration: "33 min",
-    thumb: "https://i.ytimg.com/vi/2alg7MQ6_sI/hqdefault.jpg",
-    video_id: "2alg7MQ6_sI",
-    video_class: "card mb"
   }
 ];
 

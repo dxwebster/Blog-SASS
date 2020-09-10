@@ -1,13 +1,9 @@
 <p align=center>
 
-## 💡 Sobre o projeto
-
-- Layout desenvolvido para estudo do SASS e Java Script
-- Baseado no vídeo [Dê super poderes ao CSS com SASS](https://www.youtube.com/watch?v=BaI8dHUthLA)
-- ✨Inclusão de uma nova feature: [Isotope Filter](https://isotope.metafizzy.co/filtering.html)
+# Layout-Responsivo-com-Filtro
 
 <h5 align=center>
-<img src="img/layout.png" width=600><br>
+<img src="img/layout.gif" width=600><br>
 </h5>
 
 <h3 align=center>
@@ -19,6 +15,12 @@
 </p>
 
 ---
+
+## 💡 Sobre o projeto
+
+- Layout desenvolvido para estudo do SASS e Java Script
+- Baseado no vídeo [Dê super poderes ao CSS com SASS](https://www.youtube.com/watch?v=BaI8dHUthLA)
+- ✨Inclusão de uma nova feature: [Isotope Filter](https://isotope.metafizzy.co/filtering.html)
 
 ## 🚀 Tecnologias utilizadas
 
