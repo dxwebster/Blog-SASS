@@ -8,7 +8,7 @@
 
 <h3 align=center>
 
-💻 **Acesse a aplicação [aqui](https://dxwebster.github.io/Blog-SASS/)**
+💻 **Acesse a aplicação [aqui](https://dxwebster.github.io/Layout-Responsivo-com-Filtro/)**
 
 </h3>
 
