@@ -1,4 +1,4 @@
-<h1 align=center> Layout Responsivo com Filtro</h1>
+<h1 align=center>Estudo-de-Sass-e-Filtro-com-Jquery</h1>
 
 <h6 align=center>
 <img src="img/layout.gif" width=600><br>
